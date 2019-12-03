@@ -35,8 +35,8 @@ end
 
 def total_gross(source)
  grand_total = 0 
- count = 0 
- while count < list_of_directors(source).length do 
+ row_index = 0 
+ while row_index < list_of_directors(source).length do 
    total += directors_totals(source)[list_of_directors(source)[count]]
    count += 1 
  end
