@@ -27,7 +27,7 @@ end
 def list_of_directors(source)
   directors = []
   directors_index = 0 
-  while 
+  while directors_index < source.
   
   name = source[row]
 end
