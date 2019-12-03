@@ -25,7 +25,10 @@ def gross_for_director(d)
 end
 
 def list_of_directors(source)
-  result = []
+  directors = []
+  directors_index = 0 
+  while 
+  
   name = source[row]
 end
 
