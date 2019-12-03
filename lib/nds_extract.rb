@@ -34,6 +34,7 @@ directors
 end
 
 def total_gross(source)
+ total = 0 
  
  
  
