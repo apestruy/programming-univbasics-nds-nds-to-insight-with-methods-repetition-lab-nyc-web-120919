@@ -35,7 +35,7 @@ end
 
 def total_gross(source)
  total = 0 
- 
+ dir
  
  
   # 1. directors_totals: returns a Hash of { dir_name => gross }
